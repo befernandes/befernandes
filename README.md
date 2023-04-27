@@ -19,8 +19,8 @@
 <div>
 <h1>Github Status</h1>
  <a href="https://www.github.com/befernandes">
- <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=befernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=befernandes&layout=compact&langs_count=11&theme=dark" />
+ <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=befernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=befernandes&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 <h1>Contatos</h1>
