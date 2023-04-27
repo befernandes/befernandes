@@ -34,4 +34,4 @@
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/befernandes/befernandes/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://github.com/befernandes/befernandes)
