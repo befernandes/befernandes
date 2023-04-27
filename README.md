@@ -1,4 +1,4 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/37803815?v=4">
+
  <p><strong>Olá sou Benildo Domingos, Desenvolvedor Backend Java</strong></p>
  
 <div align="left">
